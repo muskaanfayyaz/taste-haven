@@ -259,7 +259,7 @@ const menuItems: MenuCategories = {
       name: "Malai Chicken Pizza",
       description: "Flavors of tandoori chicken topped with fresh herbs and cheese.",
       price: 1100,
-      image: "/Malai-boti-pizza.jpg",
+      image: "/malai-boti-pizza.jpg",
     },
   ],
 };
